@@ -1,7 +1,8 @@
 let myBirthYear = 1995
+let month = '12';
 
 function countYears() {
-  console.log(2019 - myBirthYear)
+  console.log(month)
 } ;
 
 countYears();
