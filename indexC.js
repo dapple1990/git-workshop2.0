@@ -1,5 +1,7 @@
 'use strict';
 
-function greetings() {
-    console.log("Dalma","Lili", "Marci","Misi")
+function greetings(names) {
+    console.log(names)
 };
+let names = ['misi', 'gabor']
+greetings(names);
